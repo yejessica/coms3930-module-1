@@ -26,7 +26,7 @@ More detailed instructions can be found [here](https://comsbc3930-fall-2026.noti
 
 ### Code
 1. Clone this Github repository
-2. Open `module1.ino` from the `coms3930-module-1` folder in the Arduino IDE. If prompted, allow Arduino IDE to create a matching `module1` sketch folder.
+2. Open `coms3930-module-1.ino` from the `coms3930-module-1` folder in the Arduino IDE.
 3. Upload the sketch to the ESP32. 
 
 ### Display
